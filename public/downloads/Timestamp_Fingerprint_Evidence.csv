@@ -1,0 +1,236 @@
+Candidate,Candidate Timestamp,Matched Original Timestamp,Hamming Distance (64-bit),Similarity %,Robust Match (<0.15),Temporal Mapping,Candidate pHash,Original pHash
+Rearranged,00:00.00,00:00.00,0,100.00,YES,Start,cf8d3988c7323363,cf8d3988c7323363
+Rearranged,00:01.00,00:01.00,0,100.00,YES,Sequential,cf0d39cac6303367,cf0d39cac6303367
+Rearranged,00:02.00,00:01.00,0,100.00,YES,Sequential,cf0d39cac6303367,cf0d39cac6303367
+Rearranged,00:03.00,00:01.00,0,100.00,YES,Sequential,cf0d39cac6303367,cf0d39cac6303367
+Rearranged,00:04.00,00:04.00,0,100.00,YES,Forward jump,e79c994996633aa4,e79c994996633aa4
+Rearranged,00:05.00,00:04.00,0,100.00,YES,Sequential,e79c994996633aa4,e79c994996633aa4
+Rearranged,00:06.00,00:50.00,0,100.00,YES,Forward jump,ed965a3b85c85338,ed965a3b85c85338
+Rearranged,00:07.00,00:51.00,0,100.00,YES,Sequential,ed965a3b85c85319,ed965a3b85c85319
+Rearranged,00:08.00,00:53.00,0,100.00,YES,Sequential,ed963a3b85c85319,ed963a3b85c85319
+Rearranged,00:09.00,00:54.00,0,100.00,YES,Sequential,ed961a3b87c85319,ed961a3b87c85319
+Rearranged,00:10.00,00:54.00,0,100.00,YES,Sequential,ed961a3b87c85319,ed961a3b87c85319
+Rearranged,00:11.00,00:54.00,0,100.00,YES,Sequential,ed961a3b87c85319,ed961a3b87c85319
+Rearranged,00:12.00,00:54.00,0,100.00,YES,Sequential,ed961a3b87c85319,ed961a3b87c85319
+Rearranged,00:13.00,00:57.00,0,100.00,YES,Forward jump,ed9c1a3b87c85319,ed9c1a3b87c85319
+Rearranged,00:14.00,00:58.00,0,100.00,YES,Sequential,ed9c1a3b87c85338,ed9c1a3b87c85338
+Rearranged,00:15.00,00:57.00,4,93.75,YES,Backward jump,e99c1a3a87cc5339,ed9c1a3b87c85319
+Rearranged,00:16.00,00:25.00,0,100.00,YES,Backward jump,ed965b1b85c85958,ed965b1b85c85958
+Rearranged,00:17.00,00:31.00,2,96.88,YES,Forward jump,ed9c5a3b87c85318,ed9c3a3b87c85318
+Rearranged,00:18.00,00:53.00,0,100.00,YES,Forward jump,ed963a3b85c85319,ed963a3b85c85319
+Rearranged,00:19.00,00:30.00,2,96.88,YES,Backward jump,ed961a3b87ca5318,ed963a3b85ca5318
+Rearranged,00:20.00,00:57.00,0,100.00,YES,Forward jump,ed9c1a3b87c85319,ed9c1a3b87c85319
+Rearranged,00:21.00,00:57.00,0,100.00,YES,Sequential,ed9c1a3b87c85319,ed9c1a3b87c85319
+Rearranged,00:22.00,00:57.00,0,100.00,YES,Sequential,ed9c1a3b87c85319,ed9c1a3b87c85319
+Rearranged,00:23.00,00:44.00,0,100.00,YES,Backward jump,ed961a3b85ca5319,ed961a3b85ca5319
+Rearranged,00:24.00,00:57.00,0,100.00,YES,Forward jump,ed9c1a3b87c85319,ed9c1a3b87c85319
+Rearranged,00:25.00,00:06.00,2,96.88,YES,Backward jump,ed965a3b85c85358,ef965a1b85c85358
+Rearranged,00:26.00,00:41.00,2,96.88,YES,Forward jump,ed961a3ba7c85318,ed963a3b87c85318
+Rearranged,00:27.00,00:47.00,0,100.00,YES,Forward jump,ed965a3b87c85318,ed965a3b87c85318
+Rearranged,00:28.00,00:51.00,0,100.00,YES,Forward jump,ed965a3b85c85319,ed965a3b85c85319
+Rearranged,00:29.00,00:54.00,0,100.00,YES,Forward jump,ed961a3b87c85319,ed961a3b87c85319
+Rearranged,00:30.00,00:47.00,0,100.00,YES,Backward jump,ed965a3b87c85318,ed965a3b87c85318
+Rearranged,00:31.00,00:47.00,0,100.00,YES,Sequential,ed965a3b87c85318,ed965a3b87c85318
+Rearranged,00:32.00,00:06.00,0,100.00,YES,Backward jump,ef965a1b85c85358,ef965a1b85c85358
+Rearranged,00:33.00,00:06.00,0,100.00,YES,Sequential,ef965a1b85c85358,ef965a1b85c85358
+Rearranged,00:34.00,00:06.00,0,100.00,YES,Sequential,ef965a1b85c85358,ef965a1b85c85358
+Rearranged,00:35.00,00:09.00,0,100.00,YES,Forward jump,ef965a1b85c85958,ef965a1b85c85958
+Rearranged,00:36.00,00:10.00,2,96.88,YES,Sequential,efa4329aa5c94359,efa4329aa5cb4159
+Rearranged,00:37.00,00:11.00,0,100.00,YES,Sequential,9ea3b692e2c962c3,9ea3b692e2c962c3
+Rearranged,00:38.00,00:12.00,2,96.88,YES,Sequential,9ca5b4d2e2cb62c3,94a5b4d2e6cb62c3
+Rearranged,00:39.00,00:13.00,0,100.00,YES,Sequential,9ea1b1f2e2c962c3,9ea1b1f2e2c962c3
+Rearranged,00:40.00,00:10.00,6,90.62,YES,Backward jump,efa6769aa5c94051,efa4329aa5cb4159
+Rearranged,00:41.00,00:15.00,0,100.00,YES,Forward jump,ef945a1b85c85b58,ef945a1b85c85b58
+Rearranged,00:42.00,00:09.00,2,96.88,YES,Backward jump,e7965a1b85c95958,ef965a1b85c85958
+Rearranged,00:43.00,00:17.00,0,100.00,YES,Forward jump,e7965b1b85c85958,e7965b1b85c85958
+Rearranged,00:44.00,00:17.00,0,100.00,YES,Sequential,e7965b1b85c85958,e7965b1b85c85958
+Rearranged,00:45.00,00:17.00,0,100.00,YES,Sequential,e7965b1b85c85958,e7965b1b85c85958
+Rearranged,00:46.00,00:21.00,2,96.88,YES,Forward jump,ca342dcb187d07da,ca342dcb187d079e
+Rearranged,00:47.00,00:21.00,2,96.88,YES,Sequential,ca342dcb187d07da,ca342dcb187d079e
+Rearranged,00:48.00,00:09.00,6,90.62,YES,Backward jump,eb963b1ba5c84958,ef965a1b85c85958
+Rearranged,00:49.00,00:09.00,0,100.00,YES,Sequential,ef965a1b85c85958,ef965a1b85c85958
+Rearranged,00:50.00,00:17.00,0,100.00,YES,Forward jump,e7965b1b85c85958,e7965b1b85c85958
+Rearranged,00:51.00,00:25.00,2,96.88,YES,Forward jump,ed961b1ba5c85958,ed965b1b85c85958
+Rearranged,00:52.00,00:26.00,0,100.00,YES,Sequential,ed965a1ba5c85358,ed965a1ba5c85358
+Rearranged,00:53.00,00:26.00,2,96.88,YES,Sequential,ed965b1ba5c85318,ed965a1ba5c85358
+Rearranged,00:54.00,00:28.00,0,100.00,YES,Sequential,ed967a1b85c85958,ed967a1b85c85958
+Rearranged,00:55.00,00:09.00,2,96.88,YES,Backward jump,e7967a1b85c85958,ef965a1b85c85958
+Rearranged,00:56.00,00:09.00,14,78.12,NO,Sequential,cb955817adcc485d,ef965a1b85c85958
+Rearranged,00:57.00,00:34.00,8,87.50,YES,Forward jump,d3028c5708deaabf,c3528c7708dca87f
+Rearranged,00:58.00,00:34.00,12,81.25,NO,Sequential,83f00c7708dcfe27,c3528c7708dca87f
+Rearranged,00:59.00,00:06.00,4,93.75,YES,Backward jump,e7965a1b8dc85b18,ef965a1b85c85358
+Rearranged,01:00.00,00:28.00,2,96.88,YES,Forward jump,ed967a1b85c85b18,ed967a1b85c85958
+Rearranged,01:01.00,00:46.00,0,100.00,YES,Forward jump,ed965a3b85ca5119,ed965a3b85ca5119
+Rearranged,01:02.00,00:46.00,0,100.00,YES,Sequential,ed965a3b85ca5119,ed965a3b85ca5119
+Rearranged,01:03.00,00:25.00,0,100.00,YES,Backward jump,ed965b1b85c85958,ed965b1b85c85958
+Rearranged,01:04.00,00:38.00,0,100.00,YES,Forward jump,ed965a1b85ca5958,ed965a1b85ca5958
+Rearranged,01:05.00,00:36.00,2,96.88,YES,Backward jump,ed965a3b85c35918,ed965a3b85ca5918
+Rearranged,01:06.00,00:36.00,0,100.00,YES,Sequential,ed965a3b85ca5918,ed965a3b85ca5918
+Rearranged,01:07.00,00:54.00,2,96.88,YES,Forward jump,ed961a1b87c85359,ed961a3b87c85319
+Rearranged,01:08.00,00:41.00,0,100.00,YES,Backward jump,ed963a3b87c85318,ed963a3b87c85318
+Rearranged,01:09.00,00:31.00,0,100.00,YES,Backward jump,ed9c3a3b87c85318,ed9c3a3b87c85318
+Rearranged,01:10.00,00:44.00,0,100.00,YES,Forward jump,ed961a3b85ca5319,ed961a3b85ca5319
+Rearranged,01:11.00,00:51.00,0,100.00,YES,Forward jump,ed965a3b85c85319,ed965a3b85c85319
+Rearranged,01:12.00,00:51.00,0,100.00,YES,Sequential,ed965a3b85c85319,ed965a3b85c85319
+Rearranged,01:13.00,00:47.00,0,100.00,YES,Backward jump,ed965a3b87c85318,ed965a3b87c85318
+Rearranged,01:14.00,00:47.00,2,96.88,YES,Sequential,ed965a1b87c85319,ed965a3b87c85318
+Rearranged,01:15.00,00:47.00,0,100.00,YES,Sequential,ed965a3b87c85318,ed965a3b87c85318
+Rearranged,01:16.00,01:16.00,4,93.75,YES,Forward jump,fdf9f0c0a3c5a2c0,fdfdf0c083d5a0c0
+Rearranged,01:17.00,01:17.00,0,100.00,YES,Sequential,defc6192886cb293,defc6192886cb293
+Rearranged,01:18.00,01:17.00,0,100.00,YES,Sequential,defc6192886cb293,defc6192886cb293
+Rearranged,01:19.00,01:19.00,2,96.88,YES,Sequential,dff961c09ae12586,dff961c09ae12592
+Rearranged,01:20.00,01:20.00,0,100.00,YES,Sequential,def865c29ae16582,def865c29ae16582
+Rearranged,01:21.00,01:20.00,0,100.00,YES,Sequential,def865c29ae16582,def865c29ae16582
+AI Manipulated,00:00.00,00:00.00,2,96.88,YES,Start,cf8d3988c6323367,cf8d3988c7323363
+AI Manipulated,00:01.00,00:01.00,2,96.88,YES,Sequential,cf0d398ec6303367,cf0d39cac6303367
+AI Manipulated,00:02.00,00:01.00,2,96.88,YES,Sequential,cf0d398ac7303367,cf0d39cac6303367
+AI Manipulated,00:03.00,00:01.00,2,96.88,YES,Sequential,cf0d398ac7303367,cf0d39cac6303367
+AI Manipulated,00:04.00,00:04.00,0,100.00,YES,Forward jump,e79c994996633aa4,e79c994996633aa4
+AI Manipulated,00:05.00,00:04.00,0,100.00,YES,Sequential,e79c994996633aa4,e79c994996633aa4
+AI Manipulated,00:06.00,00:06.00,4,93.75,YES,Sequential,ef947a1b85c85338,ef965a1b85c85358
+AI Manipulated,00:07.00,00:15.00,4,93.75,YES,Forward jump,e7943a1b85c85b78,ef945a1b85c85b58
+AI Manipulated,00:08.00,00:14.00,4,93.75,YES,Backward jump,ef943a9b85c95158,e7967a1b85c95158
+AI Manipulated,00:09.00,00:11.00,4,93.75,YES,Backward jump,9ea3b692e3c94643,9ea3b692e2c962c3
+AI Manipulated,00:10.00,00:12.00,6,90.62,YES,Sequential,9ce5b4b2e6cb6043,94a5b4d2e6cb62c3
+AI Manipulated,00:11.00,00:13.00,2,96.88,YES,Sequential,9ea1b1d2e6c962c3,9ea1b1f2e2c962c3
+AI Manipulated,00:12.00,00:10.00,6,90.62,YES,Backward jump,efb4729aa5c85158,efa4329aa5cb4159
+AI Manipulated,00:13.00,00:09.00,2,96.88,YES,Backward jump,e7967a1b85c85958,ef965a1b85c85958
+AI Manipulated,00:14.00,00:21.00,2,96.88,YES,Forward jump,ca3425cb187d07be,ca342dcb187d079e
+AI Manipulated,00:15.00,00:21.00,4,93.75,YES,Sequential,ca3c25cb187c07be,ca342dcb187d079e
+AI Manipulated,00:16.00,00:21.00,6,90.62,YES,Sequential,ca3c25cb187807fe,ca342dcb187d079e
+AI Manipulated,00:17.00,00:47.00,20,68.75,NO,Forward jump,b4c1cf3b0e8c7398,ed965a3b87c85318
+AI Manipulated,00:18.00,00:47.00,20,68.75,NO,Sequential,bcc1cb3b0ccc339a,ed965a3b87c85318
+AI Manipulated,00:19.00,00:47.00,22,65.62,NO,Sequential,bcc1cb7b8ccc238a,ed965a3b87c85318
+AI Manipulated,00:20.00,00:13.00,22,65.62,NO,Backward jump,bcc1c9738cce23ca,9ea1b1f2e2c962c3
+AI Manipulated,00:21.00,00:13.00,22,65.62,NO,Sequential,bec1c0738ec6a3ca,9ea1b1f2e2c962c3
+AI Manipulated,00:22.00,00:11.00,24,62.50,NO,Backward jump,bec1c2338ec6a3c6,9ea3b692e2c962c3
+AI Manipulated,00:23.00,00:06.00,16,75.00,NO,Backward jump,f6c1da3b8cc65158,ef965a1b85c85358
+AI Manipulated,00:24.00,00:09.00,2,96.88,YES,Forward jump,e7967a1b85c85958,ef965a1b85c85958
+AI Manipulated,00:25.00,00:28.00,0,100.00,YES,Forward jump,ed967a1b85c85958,ed967a1b85c85958
+AI Manipulated,00:26.00,00:31.00,2,96.88,YES,Forward jump,ed9c3a1b87c85338,ed9c3a3b87c85318
+AI Manipulated,00:27.00,00:41.00,2,96.88,YES,Forward jump,ed963a1b87c85338,ed963a3b87c85318
+AI Manipulated,00:28.00,00:09.00,16,75.00,NO,Backward jump,db955817adcc4853,ef965a1b85c85958
+AI Manipulated,00:29.00,00:34.00,6,90.62,YES,Forward jump,d3028c5708dcaaff,c3528c7708dca87f
+AI Manipulated,00:30.00,00:34.00,12,81.25,NO,Sequential,c3f00c7708dcfe23,c3528c7708dca87f
+AI Manipulated,00:31.00,00:30.00,4,93.75,YES,Backward jump,ed963a1b85ca5139,ed963a3b85ca5318
+AI Manipulated,00:32.00,00:28.00,2,96.88,YES,Backward jump,e5967a1b85ca5958,ed967a1b85c85958
+AI Manipulated,00:33.00,00:16.00,2,96.88,YES,Backward jump,e5967a1ba5c85958,e7965a1ba5c85958
+AI Manipulated,00:34.00,00:09.00,4,93.75,YES,Backward jump,ed965a1b85c95938,ef965a1b85c85958
+AI Manipulated,00:35.00,00:28.00,2,96.88,YES,Forward jump,ed967a1b85ca5918,ed967a1b85c85958
+AI Manipulated,00:36.00,00:28.00,2,96.88,YES,Sequential,ed967a1b85ca5918,ed967a1b85c85958
+AI Manipulated,00:37.00,00:31.00,4,93.75,YES,Forward jump,e99e3a1b87c85338,ed9c3a3b87c85318
+AI Manipulated,00:38.00,00:42.00,4,93.75,YES,Forward jump,ef9c3a1e85c35258,ed9c3a1ba5c35258
+AI Manipulated,00:39.00,00:53.00,2,96.88,YES,Forward jump,ed963a3b85c85139,ed963a3b85c85319
+AI Manipulated,00:40.00,00:47.00,2,96.88,YES,Backward jump,ed965a3b87c85138,ed965a3b87c85318
+AI Manipulated,00:41.00,00:28.00,4,93.75,YES,Backward jump,ed967a1b87c85119,ed967a1b85c85958
+AI Manipulated,00:42.00,00:31.00,4,93.75,YES,Forward jump,ed9e3a1b87c85138,ed9c3a3b87c85318
+AI Manipulated,00:43.00,00:30.00,4,93.75,YES,Backward jump,ed963a1b85ca5139,ed963a3b85ca5318
+AI Manipulated,00:44.00,00:41.00,2,96.88,YES,Forward jump,ed963a1b87c85338,ed963a3b87c85318
+AI Manipulated,00:45.00,00:41.00,2,96.88,YES,Sequential,ed963a1b87c85338,ed963a3b87c85318
+AI Manipulated,00:46.00,01:00.00,2,96.88,YES,Forward jump,ed965a3b85c05939,ed965a3b85c85919
+AI Manipulated,00:47.00,00:53.00,2,96.88,YES,Backward jump,ed963a3b85c85139,ed963a3b85c85319
+AI Manipulated,00:48.00,00:31.00,4,93.75,YES,Backward jump,ed9c3a1b85c85339,ed9c3a3b87c85318
+AI Manipulated,00:49.00,00:31.00,2,96.88,YES,Sequential,ed9c3a3b87c85138,ed9c3a3b87c85318
+AI Manipulated,00:50.00,00:31.00,2,96.88,YES,Sequential,ed9c3a3b87c85138,ed9c3a3b87c85318
+AI Manipulated,00:51.00,00:31.00,4,93.75,YES,Sequential,ed9c3a3b85c85139,ed9c3a3b87c85318
+AI Manipulated,00:52.00,00:31.00,2,96.88,YES,Sequential,ed9c3a3b85c85338,ed9c3a3b87c85318
+AI Manipulated,00:53.00,00:31.00,2,96.88,YES,Sequential,e99c3a3b87c85338,ed9c3a3b87c85318
+AI Manipulated,00:54.00,00:31.00,2,96.88,YES,Sequential,ed9c3a1b87c85338,ed9c3a3b87c85318
+AI Manipulated,00:55.00,00:57.00,2,96.88,YES,Forward jump,e99c1a3b87c85339,ed9c1a3b87c85319
+AI Manipulated,00:56.00,00:17.00,2,96.88,YES,Backward jump,e5967b1b85c85958,e7965b1b85c85958
+AI Manipulated,00:57.00,00:31.00,2,96.88,YES,Forward jump,ed9c3a3b87c85138,ed9c3a3b87c85318
+AI Manipulated,00:58.00,00:53.00,2,96.88,YES,Forward jump,ed963a1b85c85339,ed963a3b85c85319
+AI Manipulated,00:59.00,00:58.00,4,93.75,YES,Forward jump,e99c1b3a87cc5338,ed9c1a3b87c85338
+AI Manipulated,01:00.00,00:31.00,2,96.88,YES,Backward jump,e99c3a3b87c85338,ed9c3a3b87c85318
+AI Manipulated,01:01.00,00:31.00,2,96.88,YES,Sequential,e99c3a3b87c85338,ed9c3a3b87c85318
+AI Manipulated,01:02.00,00:31.00,4,93.75,YES,Sequential,ed9c3e3b87c85230,ed9c3a3b87c85318
+AI Manipulated,01:03.00,00:31.00,2,96.88,YES,Sequential,e99c3a3b87c85338,ed9c3a3b87c85318
+AI Manipulated,01:04.00,00:31.00,2,96.88,YES,Sequential,e99c3a3b87c85338,ed9c3a3b87c85318
+AI Manipulated,01:05.00,00:28.00,2,96.88,YES,Backward jump,ed967a1b85c85938,ed967a1b85c85958
+AI Manipulated,01:06.00,00:31.00,2,96.88,YES,Forward jump,ed9c3a3b87c85138,ed9c3a3b87c85318
+AI Manipulated,01:07.00,00:30.00,4,93.75,YES,Backward jump,ed9e3a3b85c85138,ed963a3b85ca5318
+AI Manipulated,01:08.00,00:28.00,4,93.75,YES,Backward jump,e5967a1b85c85939,ed967a1b85c85958
+AI Manipulated,01:09.00,00:30.00,4,93.75,YES,Sequential,ed9e3a1b85c85338,ed963a3b85ca5318
+AI Manipulated,01:10.00,00:31.00,2,96.88,YES,Sequential,ed9c3a3b87c85138,ed9c3a3b87c85318
+AI Manipulated,01:11.00,01:01.00,2,96.88,YES,Forward jump,ed965a1b87c85938,ed965a3b87c85918
+AI Manipulated,01:12.00,01:19.00,2,96.88,YES,Forward jump,dff961c09ae16582,dff961c09ae12592
+AI Manipulated,01:13.00,01:20.00,0,100.00,YES,Sequential,def865c29ae16582,def865c29ae16582
+AI Manipulated,01:14.00,01:20.00,0,100.00,YES,Sequential,def865c29ae16582,def865c29ae16582
+AI Manipulated,01:15.00,01:17.00,2,96.88,YES,Backward jump,dffc6092886cb293,defc6192886cb293
+AI Manipulated,01:16.00,01:17.00,2,96.88,YES,Sequential,defc6092896cb293,defc6192886cb293
+AI Manipulated,01:17.00,01:17.00,0,100.00,YES,Sequential,defc6192886cb293,defc6192886cb293
+Pirated AI 4,00:00.00,00:00.00,2,96.88,YES,Start,cf8d3988c6323367,cf8d3988c7323363
+Pirated AI 4,00:01.00,00:01.00,0,100.00,YES,Sequential,cf0d39cac6303367,cf0d39cac6303367
+Pirated AI 4,00:02.00,00:01.00,0,100.00,YES,Sequential,cf0d39cac6303367,cf0d39cac6303367
+Pirated AI 4,00:03.00,00:01.00,0,100.00,YES,Sequential,cf0d39cac6303367,cf0d39cac6303367
+Pirated AI 4,00:04.00,00:04.00,0,100.00,YES,Forward jump,e79c994996633aa4,e79c994996633aa4
+Pirated AI 4,00:05.00,00:04.00,0,100.00,YES,Sequential,e79c994996633aa4,e79c994996633aa4
+Pirated AI 4,00:06.00,00:06.00,4,93.75,YES,Sequential,ef947a1b85c85338,ef965a1b85c85358
+Pirated AI 4,00:07.00,00:15.00,4,93.75,YES,Forward jump,e7943a1b85c85b78,ef945a1b85c85b58
+Pirated AI 4,00:08.00,00:14.00,4,93.75,YES,Backward jump,ef943a9b85c95158,e7967a1b85c95158
+Pirated AI 4,00:09.00,00:11.00,4,93.75,YES,Backward jump,9ea3b692e3c94643,9ea3b692e2c962c3
+Pirated AI 4,00:10.00,00:12.00,6,90.62,YES,Sequential,9ce5b4b2e6cb6043,94a5b4d2e6cb62c3
+Pirated AI 4,00:11.00,00:13.00,2,96.88,YES,Sequential,9ea1b1d2e6c962c3,9ea1b1f2e2c962c3
+Pirated AI 4,00:12.00,00:10.00,6,90.62,YES,Backward jump,efb4729aa5c85158,efa4329aa5cb4159
+Pirated AI 4,00:13.00,00:09.00,2,96.88,YES,Backward jump,e7967a1b85c85958,ef965a1b85c85958
+Pirated AI 4,00:14.00,00:21.00,2,96.88,YES,Forward jump,ca3425cb187d07be,ca342dcb187d079e
+Pirated AI 4,00:15.00,00:21.00,4,93.75,YES,Sequential,ca3c25cb187c07be,ca342dcb187d079e
+Pirated AI 4,00:16.00,00:21.00,6,90.62,YES,Sequential,ca3c25cb187807fe,ca342dcb187d079e
+Pirated AI 4,00:17.00,00:47.00,20,68.75,NO,Forward jump,b4c1cf3b0e8c7398,ed965a3b87c85318
+Pirated AI 4,00:18.00,00:47.00,20,68.75,NO,Sequential,bcc1cb3b0ccc339a,ed965a3b87c85318
+Pirated AI 4,00:19.00,00:47.00,22,65.62,NO,Sequential,bcc1cb7b8ccc238a,ed965a3b87c85318
+Pirated AI 4,00:20.00,00:13.00,22,65.62,NO,Backward jump,bcc1c9738cce23ca,9ea1b1f2e2c962c3
+Pirated AI 4,00:21.00,00:13.00,22,65.62,NO,Sequential,bec1c0738ec6a3ca,9ea1b1f2e2c962c3
+Pirated AI 4,00:22.00,00:11.00,24,62.50,NO,Backward jump,bec1c2338ec6a3c6,9ea3b692e2c962c3
+Pirated AI 4,00:23.00,00:28.00,4,93.75,YES,Forward jump,ed963a1b85c85b38,ed967a1b85c85958
+Pirated AI 4,00:24.00,00:31.00,2,96.88,YES,Forward jump,ed9c3a1b87c85338,ed9c3a3b87c85318
+Pirated AI 4,00:25.00,00:41.00,2,96.88,YES,Forward jump,ed963a1b87c85338,ed963a3b87c85318
+Pirated AI 4,00:26.00,00:33.00,8,87.50,YES,Backward jump,d3b40c56afcc2873,d3100c562fdc28ff
+Pirated AI 4,00:27.00,00:34.00,4,93.75,YES,Sequential,c3028c7708dcaaff,c3528c7708dca87f
+Pirated AI 4,00:28.00,00:35.00,10,84.38,NO,Sequential,c3f40c7789dc7a12,c3d41c5f8dcc5b30
+Pirated AI 4,00:29.00,01:02.00,0,100.00,YES,Forward jump,ed961a3b85ca5938,ed961a3b85ca5938
+Pirated AI 4,00:30.00,00:17.00,2,96.88,YES,Backward jump,e5967b1b85c85958,e7965b1b85c85958
+Pirated AI 4,00:31.00,00:28.00,2,96.88,YES,Forward jump,e5967a1b85c85978,ed967a1b85c85958
+Pirated AI 4,00:32.00,00:36.00,4,93.75,YES,Forward jump,ed965a3b85c15938,ed965a3b85ca5918
+Pirated AI 4,00:33.00,00:28.00,4,93.75,YES,Backward jump,ed967a1b85c25938,ed967a1b85c85958
+Pirated AI 4,00:34.00,00:28.00,4,93.75,YES,Sequential,ed963a1b87c85938,ed967a1b85c85958
+Pirated AI 4,00:35.00,00:31.00,4,93.75,YES,Forward jump,ed9e3a1b87c85330,ed9c3a3b87c85318
+Pirated AI 4,00:36.00,00:31.00,4,93.75,YES,Sequential,ed9c3a1b87c85331,ed9c3a3b87c85318
+Pirated AI 4,00:37.00,00:44.00,2,96.88,YES,Forward jump,ed961a3b85c85339,ed961a3b85ca5319
+Pirated AI 4,00:38.00,00:36.00,2,96.88,YES,Backward jump,ed965a3b85c85938,ed965a3b85ca5918
+Pirated AI 4,00:39.00,00:28.00,4,93.75,YES,Backward jump,ed963a1b85c85939,ed967a1b85c85958
+Pirated AI 4,00:40.00,00:41.00,2,96.88,YES,Forward jump,ed963a1b87c85338,ed963a3b87c85318
+Pirated AI 4,00:41.00,00:41.00,2,96.88,YES,Sequential,ed963a1b87c85338,ed963a3b87c85318
+Pirated AI 4,00:42.00,00:41.00,2,96.88,YES,Sequential,ed963a1b87c85338,ed963a3b87c85318
+Pirated AI 4,00:43.00,00:41.00,2,96.88,YES,Sequential,ed963a1b87c85338,ed963a3b87c85318
+Pirated AI 4,00:44.00,00:50.00,2,96.88,YES,Forward jump,ed967a3b85c85138,ed965a3b85c85338
+Pirated AI 4,00:45.00,00:53.00,2,96.88,YES,Forward jump,ed963a3b85c85139,ed963a3b85c85319
+Pirated AI 4,00:46.00,00:31.00,4,93.75,YES,Backward jump,ed9c3a1b85c85339,ed9c3a3b87c85318
+Pirated AI 4,00:47.00,00:31.00,2,96.88,YES,Sequential,ed9c3a1b87c85338,ed9c3a3b87c85318
+Pirated AI 4,00:48.00,00:31.00,2,96.88,YES,Sequential,ed9c3a1b87c85338,ed9c3a3b87c85318
+Pirated AI 4,00:49.00,00:31.00,4,93.75,YES,Sequential,ed9c3a1b87c85139,ed9c3a3b87c85318
+Pirated AI 4,00:50.00,00:31.00,2,96.88,YES,Sequential,ed9c3a1b87c85338,ed9c3a3b87c85318
+Pirated AI 4,00:51.00,00:31.00,2,96.88,YES,Sequential,ed9c3a3b87c85330,ed9c3a3b87c85318
+Pirated AI 4,00:52.00,00:31.00,2,96.88,YES,Sequential,ed9c3a1b87c85338,ed9c3a3b87c85318
+Pirated AI 4,00:53.00,00:31.00,4,93.75,YES,Sequential,ed9e3a1b87c85138,ed9c3a3b87c85318
+Pirated AI 4,00:54.00,00:17.00,2,96.88,YES,Backward jump,e5967b1b85c85958,e7965b1b85c85958
+Pirated AI 4,00:55.00,00:31.00,2,96.88,YES,Forward jump,ed9c3a3b87c85138,ed9c3a3b87c85318
+Pirated AI 4,00:56.00,00:41.00,4,93.75,YES,Forward jump,ed963a1b87c85139,ed963a3b87c85318
+Pirated AI 4,00:57.00,00:31.00,2,96.88,YES,Backward jump,ed9c3a3b87c85330,ed9c3a3b87c85318
+Pirated AI 4,00:58.00,00:31.00,2,96.88,YES,Sequential,ed9c3a1b87c85338,ed9c3a3b87c85318
+Pirated AI 4,00:59.00,00:31.00,2,96.88,YES,Sequential,ed9c3a1b87c85338,ed9c3a3b87c85318
+Pirated AI 4,01:00.00,00:58.00,4,93.75,YES,Forward jump,ed9c1e3b87ca5230,ed9c1a3b87c85338
+Pirated AI 4,01:01.00,00:31.00,2,96.88,YES,Backward jump,ed9c3a1b87c85338,ed9c3a3b87c85318
+Pirated AI 4,01:02.00,00:44.00,4,93.75,YES,Forward jump,e9961a3b85ca5b31,ed961a3b85ca5319
+Pirated AI 4,01:03.00,00:28.00,2,96.88,YES,Backward jump,ed967a1b85c85938,ed967a1b85c85958
+Pirated AI 4,01:04.00,00:31.00,2,96.88,YES,Forward jump,ed9c3a3b87c85138,ed9c3a3b87c85318
+Pirated AI 4,01:05.00,00:28.00,4,93.75,YES,Backward jump,ed963a1b87c85938,ed967a1b85c85958
+Pirated AI 4,01:06.00,00:28.00,4,93.75,YES,Sequential,e5967a1b85c85939,ed967a1b85c85958
+Pirated AI 4,01:07.00,00:30.00,4,93.75,YES,Sequential,ed9e3a1b85c85338,ed963a3b85ca5318
+Pirated AI 4,01:08.00,00:53.00,4,93.75,YES,Forward jump,ed9e3a1b85c85139,ed963a3b85c85319
+Pirated AI 4,01:09.00,00:09.00,6,90.62,YES,Backward jump,ef961b1b87c05938,ef965a1b85c85958
+Pirated AI 4,01:10.00,01:20.00,2,96.88,YES,Forward jump,def861c29ae16592,def865c29ae16582
+Pirated AI 4,01:11.00,01:20.00,0,100.00,YES,Sequential,def865c29ae16582,def865c29ae16582
+Pirated AI 4,01:12.00,01:20.00,0,100.00,YES,Sequential,def865c29ae16582,def865c29ae16582
+Pirated AI 4,01:13.00,01:17.00,2,96.88,YES,Backward jump,defc6092896cb293,defc6192886cb293
+Pirated AI 4,01:14.00,01:17.00,2,96.88,YES,Sequential,defc6092896cb293,defc6192886cb293
